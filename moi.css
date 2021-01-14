@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+body {
+   
+
+    /* search gg premium vector (freepik.com) (vecteezy.com) */
+    background-image: url(https://image.freepik.com/free-vector/black-red-metal-background_43969-605.jpg)  ; 
+    background-size: cover;
+    
+   
+}
+li {
+    list-style: none;
+}
+ a {
+    text-decoration: none;
+}
+.container {
+    width: 100%;
+     display: inline-block;
+     position: relative;                                               
+     background-color:none;
+     height: 80px;
+     
+ }
+.menutrai a {
+     color:white;
+     cursor: pointer;
+ }
+ .menuphai a{
+     color:white;
+ }
+.menutrai {
+    width: 50%;
+    float: left;
+    line-height: 75px;
+    margin-left: 250px;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.menutrai a:hover {
+        color:rgb(209, 97, 97);  
+}
+.menuphai li a:hover {
+        color: rgb(209, 97, 97);
+}
+#home {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.menuphai {
+    font-size: 20px;
+    float: left;
+   margin-left: 200px;
+    line-height: 75px;
+}
+.menuphai li {
+    text-decoration: none;
+    
+}   
+
+.menucon {
+        display: none;
+}
+.menuphai li:hover .menucon {
+    display: block;
+    
+}
+.box {
+    width: 500px;
+    background: rgba(5, 5, 5, 0.4);
+    padding: 150px;
+    text-align: center;
+    border-radius: 2cm;
+    margin: auto;
+    margin-top: 10%;
+    color: white;
+    font-family:monospace;
+    font-size: 15px;
+    border: 1px solid rgb(134, 127, 127);
+ 
+}
+#slogan:hover{
+    color:rgb(209, 97, 97);
+}
+#slogan2:hover{
+    color:rgb(209, 97, 97);
+}
+#slogan3:hover{
+    color:rgb(209, 97, 97);
+}

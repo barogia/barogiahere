@@ -1,0 +1,22 @@
+.box {
+    width: 500px;
+    border-radius: 0px;
+    line-height: 100px  ;
+}
+
+#name:hover {
+    color: rgb(238, 153, 153);
+}
+.box {
+    padding-top: 50px;
+    border-radius: 2cm;
+}
+#educate:hover {
+    color : rgb(238, 153, 153);
+}
+#address:hover {
+    color: rgb(238,153,153);
+}
+#phonenumber:hover {
+    color: rgb(238, 153, 153);
+}
